@@ -10,7 +10,7 @@
 ## About
 In this code along I updated the provided starter files using
 HTML, CSS, and Javascript
-
+![](images/Drumkit-site.png)
 <a name="features"></a>
 ## Features
 - [x] HTML
