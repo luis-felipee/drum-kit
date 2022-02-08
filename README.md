@@ -8,8 +8,6 @@
 
 <a name="about"></a>
 ## About
-In this code along I updated the provided starter files using
-HTML, CSS, and Javascript
 ![Screenshot](images/Drumkit.Site.png)
 <a name="features"></a>
 ## Features
